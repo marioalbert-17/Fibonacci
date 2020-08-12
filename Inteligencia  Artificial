@@ -1,3 +1,7 @@
+/**
+        Mario Alberto Refugio Llanes
+*/
+
 int numero1 = 0;   
         int numero2 = 1;
         int numeroX;
